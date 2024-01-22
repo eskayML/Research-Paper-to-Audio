@@ -1,0 +1,4 @@
+PyPDF2
+streamlit 
+pyttsx3
+huggingface-hub
