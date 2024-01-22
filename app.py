@@ -14,7 +14,7 @@ background: linear-gradient(  #eee 38%, #ccc 68%);
 
 st.markdown(page_bg_img, unsafe_allow_html=True)
 
-st.title("Summarize & Listen to your Academic Materials on the Fly.")
+st.title("$Summarize & Listen to your Academic Materials on the Fly.$")
 
 uploaded_pdf = st.file_uploader("Upload a research Paper", type="pdf")
 full_text = None
