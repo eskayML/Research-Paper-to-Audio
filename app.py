@@ -4,7 +4,6 @@ import tempfile
 import PyPDF2
 from huggingface_hub import InferenceClient
 
-KEY = 'hf_lwkejkjlfka00wjsldkjlQdkdljlwhsejl'
 
 page_bg_img = """
 <style>
